@@ -1,3 +1,4 @@
+[![Coverage Status](https://coveralls.io/repos/github/nklubega/Flask-Microblog/badge.svg?branch=master)]
 # Flask-Microblog
 TABLE OF CONTENTS
 General Info
